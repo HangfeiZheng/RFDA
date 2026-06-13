@@ -6,7 +6,8 @@ The code for the paper
 2. The main_example.m is provided as an example to implement the alph_RFDA algorith.
 3. The Umist.mat facial image data is provided as the example.
 4. If you use the code here, please cite our paper:
-   @ARTICLE{11559223,
+
+@ARTICLE{11559223,
   author={Zheng, Hangfei and Seghouane, Abd-Krim and Merad, Djamal},
   journal={IEEE Transactions on Image Processing}, 
   title={Robust Discriminant Subspace Learning with α-Divergence for Image Classification}, 
