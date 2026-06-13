@@ -7,13 +7,13 @@ The code for the paper
 3. The Umist.mat facial image data is provided as the demo example.
 4. If you use the code here, please cite our paper:
 
-@ARTICLE{11559223,\\
-  author={Zheng, Hangfei and Seghouane, Abd-Krim and Merad, Djamal},\\
-  journal={IEEE Transactions on Image Processing}, \\
-  title={Robust Discriminant Subspace Learning with α-Divergence for Image Classification}, \\
-  year={2026},\\
-  volume={},\\
-  number={},\\
-  pages={1-1},\\
+@ARTICLE{11559223,
+  author={Zheng, Hangfei and Seghouane, Abd-Krim and Merad, Djamal},
+  journal={IEEE Transactions on Image Processing},
+  title={Robust Discriminant Subspace Learning with $\alpha$-Divergence for Image Classification},
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
   doi={10.1109/TIP.2026.3700924}}
 
