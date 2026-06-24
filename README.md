@@ -20,7 +20,7 @@ If you use this code for your research, please cite our paper:
 @ARTICLE{11559223,
   author={Zheng, Hangfei and Seghouane, Abd-Krim and Merad, Djamal},
   journal={IEEE Transactions on Image Processing}, 
-  title={Robust Discriminant Subspace Learning With α-Divergence for Image Classification}, 
+  title={Robust Discriminant Subspace Learning With $\alpha$-Divergence for Image Classification}, 
   year={2026},
   volume={35},
   number={},
